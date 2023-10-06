@@ -1,1 +1,1 @@
-![Alt text](app.png)
+<img src="app.png">
