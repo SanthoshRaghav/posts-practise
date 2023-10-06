@@ -1,1 +1,1 @@
-![Alt text!](app.png)
+![Alt text!](test.jpg)
